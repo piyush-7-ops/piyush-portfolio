@@ -20,7 +20,9 @@ const About = () => {
     'Adobe XD',
     'Sketch',
     'Illustrator',
-    'Photoshop'
+    'Photoshop',
+    'Relume AI',
+    'Webflow'
   ];
 
   return (
