@@ -34,7 +34,7 @@ const About = () => {
               About Me
             </h1>
             <p className="text-xl text-muted-foreground">
-              Passionate about creating meaningful digital experiences that solve real problems
+              Passionate about creating meaningful digital experiences that solve real problems.
             </p>
           </div>
 
